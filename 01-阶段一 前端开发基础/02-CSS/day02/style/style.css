@@ -1,0 +1,81 @@
+#nav {
+
+}
+
+#orange {
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    background-image: url(../images/bg1.png);
+    background-repeat: no-repeat;
+    line-height: 50px;
+    text-indent: 1em;
+}
+
+#skyblue {
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    background-image: url(../images/bg2.png);
+    background-repeat: no-repeat;
+    line-height: 50px;
+    text-indent: 1em;
+}
+
+#blue {
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    background-image: url(../images/bg3.png);
+    background-repeat: no-repeat;
+    line-height: 50px;
+    text-indent: 1em;
+}
+
+#purple {
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    background-image: url(../images/bg4.png);
+    background-repeat: no-repeat;
+    line-height: 50px;
+    text-indent: 1em;
+}
+
+#red {
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+    background-image: url(../images/bg5.png);
+    background-repeat: no-repeat;
+    line-height: 50px;
+    text-indent: 1em;
+}
+
+#orange:hover {
+    background-image: url(../images/bg11.png);
+}
+
+#skyblue:hover {
+    background-image: url(../images/bg22.png);
+}
